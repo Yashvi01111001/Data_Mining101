@@ -10,7 +10,8 @@ This repository contains exploratory data analysis (EDA) and data mining on the 
   - Data Normalization  
   - Chi-Squared Test  
   - Correlation Coefficient & Covariance  
-  - Discretization  
+  - Discretization
+- **`OutliersHandling.ipynb`** - Implemented statistical (Z-Score, IQR, Box Plot), ML-based (DBSCAN), and distance-based (KNN) methods for detecting and handling outliers. Used Winsorization and outlier removal to improve data quality.
 
 ## Features  
 🔹 Data Cleaning & Preprocessing  
